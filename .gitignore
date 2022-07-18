@@ -1,3 +1,4 @@
-nb9800/__pycache__
+nb9800/__pycache__/
 client_secret.json
 nb9800/config.json
+__pycache__/
